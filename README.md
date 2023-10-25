@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Mohammed
-- 👀 I’m interested in Artificial Intelligence, Machine Learning. specifically NLP. 
-- 🌱 I’m currently learning Data Science, Machine Learning, Deep Learning, NLP.
+- 👋 Hi, I’m Mohamed
+- 👀 I’m interested in Cybersecurity, linguistics, Data analytics, Data science, and UI/UX design. 
+- 🌱 I’m currently learning Cybersecurity, Data analytics, and UI/UX design.
 - 📫 How to reach me:
 - Gmail: Mhmdabdalhaleem83@gmail.com
 - Whatsapp: +249 12 005 7997
